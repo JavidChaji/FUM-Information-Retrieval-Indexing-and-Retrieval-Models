@@ -18,3 +18,5 @@
  - scipy
  - threading
  - hazm
+ - sklearn
+ - google
