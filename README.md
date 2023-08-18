@@ -8,12 +8,13 @@
 
 **TD-IDF**:
   - the frequency of words to determine how relevant those words are to a given document.
+
 **Libraries**:
-pandas
-numpy
-json
-ast
-math
-scipy
-threading
-hazm
+ - pandas
+ - numpy
+ - json
+ - ast
+ - math
+ - scipy
+ - threading
+ - hazm
