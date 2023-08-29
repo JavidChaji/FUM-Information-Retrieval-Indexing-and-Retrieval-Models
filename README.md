@@ -67,9 +67,9 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/blob/master/LICENSE
 
 
 <!-- Linkedin -->
