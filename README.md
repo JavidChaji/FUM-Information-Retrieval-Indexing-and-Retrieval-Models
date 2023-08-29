@@ -44,9 +44,9 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/graphs/contributors
+[contributors-url]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/graphs/contributors
 
 <!-- Forks -->
 [forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
