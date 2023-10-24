@@ -76,8 +76,8 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python][Python.org]][Python-url]
-* [![Jupyter][Jupyter.org]][Jupyter-url]
+* [![Python][Python-Shield]][Python-url]
+* [![Jupyter][Jupyter-Shield]][Jupyter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,8 +185,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Python.org]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow
+[Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Python-url]: https://python.org/
 
-[Jupyter.org]: https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange
+[Jupyter-Shield]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 [Jupyter-url]: https://jupyter.org/
