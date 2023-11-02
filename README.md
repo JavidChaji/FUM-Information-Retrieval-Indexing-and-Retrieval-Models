@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 # report-cleaning
 
@@ -78,8 +78,8 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 
 Technologies and Tools Utilized in this Project
 
-* [![Python][Python-Shield]][Python-url]
-* [![Jupyter][Jupyter-Shield]][Jupyter-url]
+* [![Python][Python-Shield]][Python-URL]
+* [![Jupyter][Jupyter-Shield]][Jupyter-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,11 +184,16 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
+<!-- Python -->
 [Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-[Python-url]: https://python.org/
 
+[Python-URL]: https://python.org/
+
+
+<!-- Jupyter -->
 [Jupyter-Shield]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
-[Jupyter-url]: https://jupyter.org/
+
+[Jupyter-URL]: https://jupyter.org/
