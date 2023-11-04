@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][Contributors-Shield]][Contributors-URL]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
+[![LinkedIn][Linkedin-Shield]][Javid-Linkedin-URL]
 
 # report-cleaning
 
@@ -153,38 +153,38 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/blob/master/LICENSE
+[License-URL]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/blob/master/LICENSE
 
 
 <!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
+[Javid-Linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
 <!-- Python -->
