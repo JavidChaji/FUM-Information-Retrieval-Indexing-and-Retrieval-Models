@@ -1,20 +1,16 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
 
-
-
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
 # report-cleaning
 
 Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Models
-
 
 **preprocess text**:
 1. Normalization
@@ -37,8 +33,6 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
  - hazm
  - sklearn
  - google
-
-
 
 
 
@@ -70,8 +64,6 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 
 
 
-
-
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -82,9 +74,6 @@ Technologies and Tools Utilized in this Project
 * [![Jupyter][Jupyter-Shield]][Jupyter-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -106,14 +95,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -125,7 +112,6 @@ Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
 Project Link: [https://github.com/JavidChaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models](https://github.com/JavidChaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -144,7 +130,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
