@@ -64,6 +64,11 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -141,6 +146,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models/graphs/contributors
+
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Information-Retrieval-Indexing-and-Retrieval-Models.svg?style=for-the-badge
