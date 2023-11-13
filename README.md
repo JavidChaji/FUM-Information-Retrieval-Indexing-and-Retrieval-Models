@@ -12,30 +12,6 @@
 
 Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Models
 
-**preprocess text**:
-1. Normalization
-2. Stemming
-3. Lemmatization
-4. Remove stop words
-5. Remove punctuations
-
-**TD-IDF**:
-  - the frequency of words to determine how relevant those words are to a given document.
-
-**Libraries**:
- - pandas
- - numpy
- - json
- - ast
- - math
- - scipy
- - threading
- - hazm
- - sklearn
- - google
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -66,6 +42,29 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+
+**preprocess text**:
+1. Normalization
+2. Stemming
+3. Lemmatization
+4. Remove stop words
+5. Remove punctuations
+
+**TD-IDF**:
+  - the frequency of words to determine how relevant those words are to a given document.
+
+**Libraries**:
+ - pandas
+ - numpy
+ - json
+ - ast
+ - math
+ - scipy
+ - threading
+ - hazm
+ - sklearn
+ - google
 
 
 
