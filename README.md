@@ -45,7 +45,6 @@ Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Mode
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 **preprocess text**:
 1. Normalization
 2. Stemming
@@ -80,6 +79,7 @@ Technologies and Tools Utilized in this Project
 * [![Jupyter][Jupyter-Shield]][Jupyter-URL]
 * [![Numpy][Numpy-Shield]][Numpy-URL]
 * [![Pandas][Pandas-Shield]][Pandas-URL]
+* [![Scikit-Learn][Scikit-Learn-Shield]][Scikit-Learn-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,3 +203,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Pandas-Shield]: https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
 
 [Pandas-URL]: https://pandas.pydata.org
+
+
+<!-- Scikit Learn -->
+[Scikit-Learn-Shield]: https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
+[Scikit-Learn-URL]: https://scikit-learn.org/stable/
