@@ -12,6 +12,8 @@
 
 Ferdowsi University of Mashhad Information Retrieval Indexing and Retrieval Models
 
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
