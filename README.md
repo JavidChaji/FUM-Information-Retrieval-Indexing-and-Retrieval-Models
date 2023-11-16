@@ -76,6 +76,7 @@ Technologies and Tools Utilized in this Project
 
 * [![Python][Python-Shield]][Python-URL]
 * [![Jupyter][Jupyter-Shield]][Jupyter-URL]
+* [![Numpy][Numpy-Shield]][Numpy-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,10 +181,16 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Python -->
 [Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
-[Python-URL]: https://python.org/
+[Python-URL]: https://python.org
 
 
 <!-- Jupyter -->
 [Jupyter-Shield]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 
-[Jupyter-URL]: https://jupyter.org/
+[Jupyter-URL]: https://jupyter.org
+
+
+<!-- Numpy -->
+[Numpy-Shield]: https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+
+[Numpy-URL]: https://numpy.org
