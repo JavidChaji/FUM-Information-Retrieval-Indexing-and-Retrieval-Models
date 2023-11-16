@@ -80,6 +80,8 @@ Technologies and Tools Utilized in this Project
 * [![Numpy][Numpy-Shield]][Numpy-URL]
 * [![Pandas][Pandas-Shield]][Pandas-URL]
 * [![Scikit-Learn][Scikit-Learn-Shield]][Scikit-Learn-URL]
+* [![SciPy][SciPy-Shield]][SciPy-URL]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,4 +210,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Scikit Learn -->
 [Scikit-Learn-Shield]: https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
 
-[Scikit-Learn-URL]: https://scikit-learn.org/stable/
+[Scikit-Learn-URL]: https://scikit-learn.org/stable
+
+
+<!-- SciPy -->
+[SciPy-Shield]: https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white
+
+[SciPy-URL]: https://scipy.org
